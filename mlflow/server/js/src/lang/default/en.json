@@ -4656,6 +4656,10 @@
     "defaultMessage": "using Prompt Engineering",
     "description": "String for creating a new run with prompt engineering modal"
   },
+  "UnQIPJ": {
+    "defaultMessage": "Created: {date}",
+    "description": "Issue creation date label"
+  },
   "Uq6/bl": {
     "defaultMessage": "Create prompt",
     "description": "A header for the empty state in the prompts table"
@@ -6995,6 +6999,10 @@
     "defaultMessage": "Detect unsatisfactory user experiences and unmet user needs",
     "description": "Issue category description for negative user experiences"
   },
+  "k4F8aJ": {
+    "defaultMessage": "Copy issue ID",
+    "description": "Tooltip to copy issue ID"
+  },
   "k8oXRo": {
     "defaultMessage": "Enter description",
     "description": "Placeholder for description input in edit modal"
@@ -7510,6 +7518,10 @@
   "nIk08y": {
     "defaultMessage": "Trace view",
     "description": "Tooltip for traces preview mode toggle in evaluation runs table controls"
+  },
+  "nIkC92": {
+    "defaultMessage": "Issue ID copied",
+    "description": "Tooltip after issue ID was copied"
   },
   "nJxDSh": {
     "defaultMessage": "Inputs",
@@ -8402,6 +8414,10 @@
   "tEaqGu": {
     "defaultMessage": "Expectation",
     "description": "Expectation select menu option for assessment type"
+  },
+  "tFVXU7": {
+    "defaultMessage": "Issue ID",
+    "description": "Label for issue ID in popover"
   },
   "tGqJL4": {
     "defaultMessage": "Output",
